@@ -38,9 +38,9 @@
   "homepage": "https://github.com/gaearon/react-dnd",
   "dependencies": {
     "disposables": "^1.0.1",
-    "dnd-core": "^1.2.1",
+    "dnd-core": "1.2.1",
     "invariant": "^2.1.0",
-    "lodash": "^3.10.1"
+    "lodash": "3.10.1"
   },
   "peerDependencies": {
     "react": ">=0.13.0 <0.15.0 || ^0.14.0-rc1"
